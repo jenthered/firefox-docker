@@ -12,7 +12,3 @@ assignees: ''
 **Reproduction steps**
 
 **Expected behavior**
-
-**Screenshots if applicable**
-
-**Environment info if applicable** (browser, Node version, etc.)
