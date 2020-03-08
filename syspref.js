@@ -69,3 +69,4 @@ pref("privacy.trackingprotection.enabled", true);
 pref("startup.homepage_welcome_url", "");
 pref("toolkit.telemetry.cachedClientID", "");
 pref("webgl.disabled", true);
+pref("browser.tabs.remote.autostart", false);
