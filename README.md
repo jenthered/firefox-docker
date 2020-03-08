@@ -7,7 +7,7 @@
 ## Usage:
 
 ```shell
-docker run --env="DISPLAY" -v /tmp/.X11-unix:/tmp/.x11-unix net=host zacanger/firefox
+docker run --rm --env="DISPLAY" -v /tmp/.X11-unix:/tmp/.x11-unix net=host zacanger/firefox
 ```
 
 You may need to run `xhost +` if you get a message like `Cannot open display: :0`
