@@ -6,6 +6,9 @@ Firefox with good privacy defaults, in Docker.
 
 --------
 
+Uses [user.js](https://github.com/pyllyukko/user.js/blob/master/user.js) for
+settings defaults.
+
 ## Usage:
 
 ```shell
